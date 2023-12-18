@@ -4,6 +4,7 @@ import DayListItem from '../../src/components/core/DayListItem';
 import { useFonts, Inter_900Black } from '@expo-google-fonts/inter';
 import { AmaticSC_700Bold } from '@expo-google-fonts/amatic-sc';
 
+
 import * as SplashScreen from 'expo-splash-screen';
 import { useEffect } from 'react';
 
