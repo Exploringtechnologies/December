@@ -25,7 +25,7 @@ export default function RootLayout() {
       
     return (
         <Stack screenOptions={{
-            headerStyle:{backgroundColor: 'red'}
+            headerStyle:{}
         }} >
             <Stack.Screen name="index" options={{title: 'DEVember'}} />
 
